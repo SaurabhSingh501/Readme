@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Saurabh+%F0%9F%91%8B;Software+Developer+%26+Data+Analyst;Turning+Complex+Data+into+Actionable+Insights;Building+Scalable+%26+Data-Driven+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Saurabh;Software+Developer+%26+Data+Analyst;Turning+Complex+Data+into+Actionable+Insights;Building+Scalable+%26+Data-Driven+Solutions" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,22 +25,22 @@
 
 ---
 
-### ðŸš€ About Me
+### About Me
 
-- ðŸ”­ **Current Focus:** Developing scalable web applications, automated ETL workflows, and interactive analytical dashboards.
-- ðŸ“Š **Data Expertise:** Translating complex business requirements into intuitive metrics, exploratory data analysis (EDA), and predictive models.
-- ðŸ’» **Software Engineering:** Writing clean, testable, and maintainable code with modern architectural practices.
-- ðŸŒ± **Continuous Learning:** Deepening knowledge in distributed data processing, cloud architectures, and machine learning pipelines.
-- ðŸ’¬ **Ask Me About:** Python, SQL, REST APIs, Power BI / Tableau, statistical modeling, and full-stack development.
-- âš¡ **Fun Fact:** Passionate about uncovering stories hidden within complex data sets.
+- **Current Focus:** Developing scalable web applications, automated ETL workflows, and interactive analytical dashboards.
+- **Data Expertise:** Translating complex business requirements into intuitive metrics, exploratory data analysis (EDA), and predictive models.
+- **Software Engineering:** Writing clean, testable, and maintainable code with modern architectural practices.
+- **Continuous Learning:** Deepening knowledge in distributed data processing, cloud architectures (AWS/GCP), and machine learning pipelines.
+- **Ask Me About:** Python, SQL, REST APIs, Power BI, Tableau, statistical modeling, and full-stack development.
+- **Fun Fact:** Passionate about uncovering stories hidden within complex data sets.
 
 ---
 
-### ðŸ› ï¸ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
 
-#### ðŸ’» Programming & Query Languages
+#### Programming & Query Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ðŸ“ˆ Data Analytics, BI & Machine Learning
+#### Data Analytics, BI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Seaborn-388e3c?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-#### âš™ï¸ Frameworks, Backend & Databases
+#### Frameworks, Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-#### ðŸ§° DevOps, Cloud & Development Tools
+#### DevOps, Cloud & Development Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -88,7 +88,7 @@
 
 ---
 
-### ðŸ“Š GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <div align="center">
   <a href="https://github.com/SaurabhSingh501">
@@ -108,9 +108,9 @@
 
 ---
 
-### ðŸ“Œ Featured Projects
+### Featured Projects
 
-| Project | Highlights & Tech Stack | Description | Links |
+| Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :---: |
 | **End-to-End Analytics Dashboard** | `Python` `Streamlit` `Pandas` `SQL` | Interactive BI dashboard analyzing key business KPIs with dynamic filtering and forecasting. | [Repo](https://github.com/SaurabhSingh501) |
 | **Automated Data Pipeline & ETL** | `Python` `PostgreSQL` `Docker` `Airflow` | Automated ingestion, cleaning, and transformation pipeline handling raw API feeds with anomaly alerts. | [Repo](https://github.com/SaurabhSingh501) |
@@ -118,14 +118,14 @@
 
 ---
 
-### ðŸ¤ Connect & Collaborate
+### Connect & Collaborate
 
 I'm always open to discussing new opportunities, open-source initiatives, and data challenges:
 
-- ðŸ’» **GitHub:** [@SaurabhSingh501](https://github.com/SaurabhSingh501)
-- ðŸ’¼ **LinkedIn:** [Saurabh Rajput](https://www.linkedin.com/in/saurabh-rajput-5a64443aa)
-- ðŸ“¬ **Email:** [saurabhkumar1908060@gmail.com](mailto:saurabhkumar1908060@gmail.com)
+- **GitHub:** [@SaurabhSingh501](https://github.com/SaurabhSingh501)
+- **LinkedIn:** [Saurabh Rajput](https://www.linkedin.com/in/saurabh-rajput-5a64443aa)
+- **Email:** [saurabhkumar1908060@gmail.com](mailto:saurabhkumar1908060@gmail.com)
 
 <div align="center">
-  <sub>Designed with â¤ï¸ by Saurabh</sub>
+  <sub>Designed by Saurabh</sub>
 </div>
